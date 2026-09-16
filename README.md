@@ -7,15 +7,15 @@ Proyek ini memanfaatkan teknologi **Artificial Intelligence (AI) & Computer Visi
 
 ## 🔗 Tautan Penting Proyek
 *   🌐 **Mainkan di Web:** [Buka Proyek via PictoBlox Cloud](https://pictoblox.ai/p/LUYbEHAdBibGrQeLdN4T) *(Ganti dengan link share dari aplikasi PictoBlox jika ada)*
-*   💾 **Unduh File Asli:** [Klik untuk Download File .sb3](https://github.com[USERNAME_GITHUB]/[NAMA_REPO]/raw/main/[NAMA_FILE].sb3)
+*   💾 **Unduh File Asli:** [Klik untuk Download File .sb3](https://github.com/KKSBY/testPorto/raw/main/Face-detection-karsten.sb3)
 
 ---
 
 ## 📺 Tonton Video Demo Proyek
 Karena proyek ini berbasis AI dan membutuhkan akses kamera, Anda bisa melihat bagaimana sistem *Face Detection* ini merespons gerakan wajah secara langsung melalui video demo berikut:
 
-[![Tonton Video Demo](https://youtube.com[EeIZk9ztox4]/0.jpg)](https://youtube.com[EeIZk9ztox4])
-*Klik gambar di atas atau [Klik Link Ini](https://youtube.com[EeIZk9ztox4]) untuk menonton di YouTube.*
+[![Tonton Video Demo](https://youtube.com/EeIZk9ztox4/0.jpg)](https://youtube.com/EeIZk9ztox4)
+*Klik gambar di atas atau [Klik Link Ini](https://youtube.com/EeIZk9ztox4) untuk menonton di YouTube.*
 
 ---
 
