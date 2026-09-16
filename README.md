@@ -17,6 +17,13 @@ Karena proyek ini berbasis AI dan membutuhkan akses kamera, Anda bisa melihat ba
 [![Tonton Video Demo](https://youtube.com)](https://youtu.be)
 *Klik gambar di atas atau [Klik Link Ini](https://youtu.be) untuk menonton di YouTube.*
 
+<a href="https://youtu.be" target="_blank">
+   <img src="https://youtube.com" width="600" alt="Tonton Video Demo">
+</a>
+
+<p><em>Klik gambar di atas atau <a href="https://youtu.be" target="_blank">Klik Link Ini</a> untuk menonton di YouTube.</em></p>
+
+
 
 ---
 
