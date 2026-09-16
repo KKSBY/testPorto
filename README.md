@@ -14,8 +14,10 @@ Proyek ini memanfaatkan teknologi **Artificial Intelligence (AI) & Computer Visi
 ## 📺 Tonton Video Demo Proyek
 Karena proyek ini berbasis AI dan membutuhkan akses kamera, Anda bisa melihat bagaimana sistem *Face Detection* ini merespons gerakan wajah secara langsung melalui video demo berikut:
 
-[![Tonton Video Demo](https://youtube.com/EeIZk9ztox4/0.jpg)](https://youtube.com/EeIZk9ztox4)
-*Klik gambar di atas atau [Klik Link Ini](https://youtube.com/EeIZk9ztox4) untuk menonton di YouTube.*
+[![Tonton Video Demo](https://youtube.com)](https://youtu.be/EeIZk9ztox4)
+*Klik gambar di atas atau [Klik Link Ini](https://youtu.be/EeIZk9ztox4) untuk menonton di YouTube.*
+
+
 
 ---
 
