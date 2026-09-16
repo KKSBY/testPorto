@@ -6,7 +6,7 @@ Proyek ini memanfaatkan teknologi **Artificial Intelligence (AI) & Computer Visi
 ---
 
 ## 🔗 Tautan Penting Proyek
-*   🌐 **Mainkan di Web:** [Buka Proyek via PictoBlox Cloud](https://pictoblox.ai/p/LUYbEHAdBibGrQeLdN4T) *(Ganti dengan link share dari aplikasi PictoBlox jika ada)*
+*   🌐 **Mainkan di Web:** [Buka Proyek via PictoBlox Cloud](https://pictoblox.ai/p/LUYbEHAdBibGrQeLdN4T)
 *   💾 **Unduh File Asli:** [Klik untuk Download File .sb3](https://github.com/KKSBY/testPorto/raw/main/Facedetection-karsten.sb3)
 
 ---
