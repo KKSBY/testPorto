@@ -12,20 +12,12 @@ Proyek ini memanfaatkan teknologi **Artificial Intelligence (AI) & Computer Visi
 ---
 
 ## 📺 Tonton Video Demo Proyek
-Karena proyek ini berbasis AI dan membutuhkan akses kamera, Anda bisa melihat bagaimana sistem *Face Detection* ini merespons gerakan wajah secara langsung melalui video demo berikut:
+Karena proyek ini berbasis AI dan membutuhkan akses kamera, silakan lihat rekaman demo bagaimana sistem *Face Detection* ini bekerja secara langsung pada tautan di bawah ini:
 
-[![Tonton Video Demo](https://youtube.com)](https://youtu.be)
-*Klik gambar di atas atau [Klik Link Ini](https://youtu.be) untuk menonton di YouTube.*
-
-<a href="https://youtu.be" target="_blank">
-   <img src="https://youtube.com" width="600" alt="Tonton Video Demo">
-</a>
-
-<p><em>Klik gambar di atas atau <a href="https://youtu.be" target="_blank">Klik Link Ini</a> untuk menonton di YouTube.</em></p>
-
-
+👉 **[KLIK DI SINI UNTUK MENONTON VIDEO DEMO DI YOUTUBE](https://youtu.be/EeIZk9ztox4)**
 
 ---
+
 
 ## 📝 Deskripsi & Fitur AI
 Program ini mengaktifkan kamera laptop dan menganalisis koordinat wajah pengguna. Pergerakan wajah ke kanan, kiri, atas, atau bawah akan langsung dibaca sebagai perintah input untuk menggerakkan objek di layar.
